@@ -2,6 +2,8 @@
 
 A cutting-edge virtual concert experience platform that brings live music events to life in the digital realm. Built with modern web technologies and powered by AI, this platform offers an immersive concert experience from the comfort of your home.
 
+![HomePage](http://url/to/img.png)
+
 ## 🌟 Key Features
 
 ### 🎭 Immersive 3D Concert Experience
